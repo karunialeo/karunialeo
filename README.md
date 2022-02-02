@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Programming, Back-End Development
 - 🌱 I’m currently learning Git and Github
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me leogultom31@gmail.com
+- 📫 How to reach me karunialeo@gmail.com
 
 <!---
 karunialeo/karunialeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
