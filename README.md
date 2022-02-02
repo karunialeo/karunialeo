@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karunialeo
-- 👀 I’m interested in Web Programming, Back-End Development
-- 🌱 I’m currently learning Git and Github
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Programming, Fullstack Web Development, PHP, CodeIgniter
+- 🌱 I’m currently learning NodeJS, ReactJS, ExpressJS, TailwindCSS
+- 💞️ I’m looking to collaborate on Fullstack Web Development
 - 📫 How to reach me karunialeo@gmail.com
 
 <!---
