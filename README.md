@@ -4,7 +4,7 @@ Hi 👋 My name is Leo
 Full Stack Developer
 --------------------
 
-I am Leo. I am now working as Fullstack Web Developer at BLOX Platform. I am currently expertise Web Development technologies like HTML, CSS, Bootstrap, TailwindCSS, Javascript, React.js, React Native, Node.js, Express.js, PHP, Laravel and CodeIgniter. I always eager to learn something new, like new technologies and new skills.
+I am Leo. I am now working as Fullstack Web Developer at PT. Transforme Indonesia. I am currently expertise Web Development technologies like HTML, CSS, Bootstrap, TailwindCSS, Javascript, React.js, React Native, Node.js, Express.js, PHP, Laravel and CodeIgniter. I always eager to learn something new, like new technologies and new skills.
 
 * 🌍  I'm based in Jakarta, Indonesia
 * ✉️  You can contact me at [karunialeo@gmail.com](mailto:karunialeo@gmail.com)
