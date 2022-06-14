@@ -8,7 +8,7 @@ I am Leo. I am now working as Fullstack Web Developer at BLOX Platform. I am cur
 
 * 🌍  I'm based in Jakarta, Indonesia
 * ✉️  You can contact me at [karunialeo@gmail.com](mailto:karunialeo@gmail.com)
-* 🚀  I'm currently working on [BLOX Platform](http://bloxlimited.com)
+* 🚀  I'm currently working on PT. Transforme Indonesia
 * 🧠  I'm learning Vue, React Redux, Laravel
 * 🤝  I'm open to collaborating on Web Development, Mobile Development
 
