@@ -4,11 +4,11 @@ Hi 👋 My name is Leo
 Full Stack Developer
 --------------------
 
-I am Leo. I am now working as Fullstack Web Developer at PT. Transforme Indonesia. I am currently expertise Web Development technologies like HTML, CSS, Bootstrap, TailwindCSS, Javascript, React.js, React Native, Node.js, Express.js, PHP, Laravel and CodeIgniter. I always eager to learn something new, like new technologies and new skills.
+I am Leo. I am now working as Fullstack Web Developer at Yayasan YASKI (Yayasan Siaran Kristen Indonesia). I am currently expertise Web Development technologies like HTML, CSS, Bootstrap, TailwindCSS, Javascript, React.js, React Native, Node.js, Express.js, PHP, Laravel and CodeIgniter. I always eager to learn something new, like new technologies and new skills.
 
 * 🌍  I'm based in Jakarta, Indonesia
 * ✉️  You can contact me at [karunialeo@gmail.com](mailto:karunialeo@gmail.com)
-* 🚀  I'm currently working on PT. Transforme Indonesia
+* 🚀  I'm currently working on Yayasan YASKI (Yayasan Siaran Kristen Indonesia)
 * 🧠  I'm learning Vue, React Redux, Laravel
 * 🤝  I'm open to collaborating on Web Development, Mobile Development
 
